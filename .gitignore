@@ -14,3 +14,4 @@
 
 # tells autotest to use rspec extensions
 /.rspec
+/.idea
